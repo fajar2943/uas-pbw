@@ -62,9 +62,10 @@
             <div class="col-6">
                 <ul class="list-group">
                     <li class="list-group-item active" aria-current="true">Find Us</li>
-                    <li class="list-group-item">Facebook</li>
-                    <li class="list-group-item">Twitter</li>
-                    <li class="list-group-item">Instagram</li>
+                    <li class="list-group-item"><a href="https://wa.me/6282158863345">Whatsapp</a></li>
+                    <li class="list-group-item"><a href="https://github.com/fajar2943">Github</a></li>
+                    <li class="list-group-item"><a href="https://www.facebook.com/gumilangcodefb">Facebook</a></li>
+                    <li class="list-group-item"><a href="https://www.instagram.com/gumilangcode">Instagram</a></li>
                 </ul>
             </div>
         </div>
